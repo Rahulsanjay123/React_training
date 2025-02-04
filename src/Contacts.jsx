@@ -1,6 +1,11 @@
-import React from 'react';
-function Contacts() 
-{
-    return <h1>Conatcts</h1>
+import React from 'react'
+
+function Contacts() {
+  return (
+    <div>
+       <h1>Contact Us</h1>
+    </div>
+  )
 }
-export default Contacts;
+
+export default Contacts
