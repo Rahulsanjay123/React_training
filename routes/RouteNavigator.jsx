@@ -14,7 +14,6 @@ export default function RouteNavigator() {
     <Header1 />
         <div className="contents">
       <Routes>
-       
         <Route path='/' element={<Home />} />
         <Route path='/about' element={<About />} />
         <Route path='/conatcts' element={<Contacts />} />
